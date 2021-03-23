@@ -6,3 +6,5 @@ data_array[i] = 0;
 dataarray[BUF_LEN] = i;
 /* wrong */
 /* wrong, BUFLEN is outside of the array */
+
+int a;
